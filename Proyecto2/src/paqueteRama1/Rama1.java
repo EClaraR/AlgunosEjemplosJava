@@ -6,8 +6,9 @@ public class Rama1 {
 		// TODO Auto-generated method stub
 		System.out.println("ejemplo en rama1");
 		System.out.println("modificando desde Git");
-
+		System.out.println("modificando desde Git 2");
 	}
 
 }
+
 
