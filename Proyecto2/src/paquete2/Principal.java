@@ -7,7 +7,8 @@ public class Principal {
 			
 		System.out.println("Ejemplo de control de versiones con git");
 		System.out.println("Primera línea agregada al proyecto inicial");
-
+		System.out.println("Segunda línea agregada desde Git");
 	}
 
 }
+
